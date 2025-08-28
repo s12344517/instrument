@@ -1,572 +1,572 @@
 Uri: http://instrument/
-File Name: C:\Users\KK\Desktop\мф\instrument\index.htm
+File Name: C:\Downloaded Web Sites\instrument\index.htm
 Content Type: text/html
 
 Uri: http://instrument/img/9hq.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\9hq.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\9hq.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_1.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_1.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_1.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_1.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_1.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_1.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_11.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_11.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_11.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_12.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_12.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_12.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_13.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_13.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_13.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_13.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_13.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_13.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_14.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_14.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_14.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_15.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_15.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_15.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_16.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_16.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_16.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_17.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_17.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_17.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_18.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_18.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_18.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_19.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_19.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_19.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_2.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_2.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_2.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_2.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_2.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_2.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_20.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_20.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_20.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_21.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_21.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_21.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_22.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_22.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_22.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_23.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_23.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_23.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_24.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_24.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_24.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_25.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_25.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_25.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_26.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_26.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_26.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_27.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_27.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_27.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_28.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_28.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_28.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_29.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_29.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_29.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_3.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_3.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_3.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_3.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_3.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_3.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_30.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_30.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_30.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_31.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_31.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_31.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_32.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_32.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_32.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_33.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_33.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_33.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_34.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_34.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_34.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_35.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_35.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_35.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_36.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_36.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_36.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_37.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_37.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_37.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_37.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_37.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_37.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_38.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_38.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_38.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_39.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_39.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_39.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_4.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_4.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_4.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_4.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_4.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_4.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_40.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_40.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_40.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_41.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_41.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_41.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_41.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_41.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_41.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_42.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_42.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_42.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_43.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_43.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_43.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_43.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_43.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_43.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_44.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_44.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_44.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_44.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_44.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_44.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_45.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_45.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_45.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_46.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_46.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_46.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_47.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_47.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_47.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_48.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_48.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_48.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_49.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_49.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_49.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_49.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_49.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_49.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_5.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_5.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_5.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_50.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_50.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_50.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_51.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_51.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_51.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_54.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_54.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_54.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_58.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_58.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_58.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_59.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_59.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_59.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_6.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_6.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_6.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_6.png
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_6.png
+File Name: C:\Downloaded Web Sites\instrument\img\orig_6.png
 Content Type: image/png
 
 Uri: http://instrument/img/orig_60.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_60.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_60.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_61.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_61.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_61.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_62.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_62.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_62.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_63.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_63.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_63.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_64.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_64.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_64.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_7.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_7.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_7.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_8.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_8.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_8.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/img/orig_9.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\img\orig_9.jpg
+File Name: C:\Downloaded Web Sites\instrument\img\orig_9.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/o-service/
-File Name: C:\Users\KK\Desktop\мф\instrument\o-service\index.htm
+File Name: C:\Downloaded Web Sites\instrument\o-service\index.htm
 Content Type: text/html
 
 Uri: http://instrument/politika-konfidenczialnosti/
-File Name: C:\Users\KK\Desktop\мф\instrument\politika-konfidenczialnosti\index.htm
+File Name: C:\Downloaded Web Sites\instrument\politika-konfidenczialnosti\index.htm
 Content Type: text/html
 
 Uri: http://instrument/rejting-luchshih-akkumulyatornyh-opryskivatelej-top-10/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-akkumulyatornyh-opryskivatelej-top-10\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-akkumulyatornyh-opryskivatelej-top-10\index.htm
 Content Type: text/html
 
 Uri: http://instrument/rejting-luchshih-akkumulyatornyh-opryskivatelej-top-10/feed/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-akkumulyatornyh-opryskivatelej-top-10\feed\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-akkumulyatornyh-opryskivatelej-top-10\feed\index.htm
 Content Type: application/rss+xml
 
 Uri: http://instrument/rejting-luchshih-czirkulyarnyh-pil-top-10/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-czirkulyarnyh-pil-top-10\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-czirkulyarnyh-pil-top-10\index.htm
 Content Type: text/html
 
 Uri: http://instrument/rejting-luchshih-czirkulyarnyh-pil-top-10/feed/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-czirkulyarnyh-pil-top-10\feed\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-czirkulyarnyh-pil-top-10\feed\index.htm
 Content Type: application/rss+xml
 
 Uri: http://instrument/rejting-luchshih-gajkovertov-top-10/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-gajkovertov-top-10\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-gajkovertov-top-10\index.htm
 Content Type: text/html
 
 Uri: http://instrument/rejting-luchshih-gajkovertov-top-10/feed/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-gajkovertov-top-10\feed\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-gajkovertov-top-10\feed\index.htm
 Content Type: application/rss+xml
 
 Uri: http://instrument/rejting-luchshih-lazernyh-urovnej-top-10/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-lazernyh-urovnej-top-10\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-lazernyh-urovnej-top-10\index.htm
 Content Type: text/html
 
 Uri: http://instrument/rejting-luchshih-lazernyh-urovnej-top-10/feed/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-lazernyh-urovnej-top-10\feed\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-lazernyh-urovnej-top-10\feed\index.htm
 Content Type: application/rss+xml
 
 Uri: http://instrument/rejting-luchshih-rozetok-top-10/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-rozetok-top-10\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-rozetok-top-10\index.htm
 Content Type: text/html
 
 Uri: http://instrument/rejting-luchshih-rozetok-top-10/feed/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-rozetok-top-10\feed\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-rozetok-top-10\feed\index.htm
 Content Type: application/rss+xml
 
 Uri: http://instrument/rejting-luchshih-sadovyh-sekatorov-top-10/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-sadovyh-sekatorov-top-10\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-sadovyh-sekatorov-top-10\index.htm
 Content Type: text/html
 
 Uri: http://instrument/rejting-luchshih-sadovyh-sekatorov-top-10/feed/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-sadovyh-sekatorov-top-10\feed\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-sadovyh-sekatorov-top-10\feed\index.htm
 Content Type: application/rss+xml
 
 Uri: http://instrument/rejting-luchshih-shurupovyortov-top-10/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-shurupovyortov-top-10\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-shurupovyortov-top-10\index.htm
 Content Type: text/html
 
 Uri: http://instrument/rejting-luchshih-shurupovyortov-top-10/feed/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-shurupovyortov-top-10\feed\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-shurupovyortov-top-10\feed\index.htm
 Content Type: application/rss+xml
 
 Uri: http://instrument/rejting-luchshih-smesitelej-dlya-vannoj-top-10/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-smesitelej-dlya-vannoj-top-10\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-smesitelej-dlya-vannoj-top-10\index.htm
 Content Type: text/html
 
 Uri: http://instrument/rejting-luchshih-smesitelej-dlya-vannoj-top-10/feed/
-File Name: C:\Users\KK\Desktop\мф\instrument\rejting-luchshih-smesitelej-dlya-vannoj-top-10\feed\index.htm
+File Name: C:\Downloaded Web Sites\instrument\rejting-luchshih-smesitelej-dlya-vannoj-top-10\feed\index.htm
 Content Type: application/rss+xml
 
 Uri: http://instrument/wp-content/themes/reboot/assets/css/style.min.css?ver=1.5.3
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\themes\reboot\assets\css\style.min.css
+File Name: C:\Downloaded Web Sites\instrument\wp-content\themes\reboot\assets\css\style.min.css
 Content Type: text/css
 
 Uri: http://instrument/wp-content/themes/reboot/assets/fonts/wpshop-core.eot
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\themes\reboot\assets\fonts\wpshop-core.eot
+File Name: C:\Downloaded Web Sites\instrument\wp-content\themes\reboot\assets\fonts\wpshop-core.eot
 Content Type: application/vnd.ms-fontobject
 
 Uri: http://instrument/wp-content/themes/reboot/assets/fonts/wpshop-core.svg
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\themes\reboot\assets\fonts\wpshop-core.svg
+File Name: C:\Downloaded Web Sites\instrument\wp-content\themes\reboot\assets\fonts\wpshop-core.svg
 Content Type: image/svg+xml
 
 Uri: http://instrument/wp-content/themes/reboot/assets/fonts/wpshop-core.ttf
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\themes\reboot\assets\fonts\wpshop-core.ttf
+File Name: C:\Downloaded Web Sites\instrument\wp-content\themes\reboot\assets\fonts\wpshop-core.ttf
 Content Type: font/ttf
 
 Uri: http://instrument/wp-content/themes/reboot/assets/fonts/wpshop-core.woff
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\themes\reboot\assets\fonts\wpshop-core.woff
+File Name: C:\Downloaded Web Sites\instrument\wp-content\themes\reboot\assets\fonts\wpshop-core.woff
 Content Type: font/woff
 
 Uri: http://instrument/wp-content/themes/reboot/assets/images/preset-customize-shapes-1.png
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\themes\reboot\assets\images\preset-customize-shapes-1.png
+File Name: C:\Downloaded Web Sites\instrument\wp-content\themes\reboot\assets\images\preset-customize-shapes-1.png
 Content Type: image/png
 
 Uri: http://instrument/wp-content/themes/reboot/assets/images/preset-customize-shapes-2.png
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\themes\reboot\assets\images\preset-customize-shapes-2.png
+File Name: C:\Downloaded Web Sites\instrument\wp-content\themes\reboot\assets\images\preset-customize-shapes-2.png
 Content Type: image/png
 
 Uri: http://instrument/wp-content/themes/reboot/assets/images/preset-shapes-1.png
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\themes\reboot\assets\images\preset-shapes-1.png
+File Name: C:\Downloaded Web Sites\instrument\wp-content\themes\reboot\assets\images\preset-shapes-1.png
 Content Type: image/png
 
 Uri: http://instrument/wp-content/themes/reboot/assets/images/preset-shapes-2.jpg
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\themes\reboot\assets\images\preset-shapes-2.jpg
+File Name: C:\Downloaded Web Sites\instrument\wp-content\themes\reboot\assets\images\preset-shapes-2.jpg
 Content Type: image/jpeg
 
 Uri: http://instrument/wp-content/themes/reboot/assets/images/subscribe-bg.png
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\themes\reboot\assets\images\subscribe-bg.png
+File Name: C:\Downloaded Web Sites\instrument\wp-content\themes\reboot\assets\images\subscribe-bg.png
 Content Type: image/png
 
 Uri: http://instrument/wp-content/themes/reboot/assets/js/scripts.min.js?ver=1.5.3
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\themes\reboot\assets\js\scripts.min.js
+File Name: C:\Downloaded Web Sites\instrument\wp-content\themes\reboot\assets\js\scripts.min.js
 Content Type: application/javascript
 
 Uri: http://instrument/wp-content/uploads/2025/08/favicon.png
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-content\uploads\2025\08\favicon.png
+File Name: C:\Downloaded Web Sites\instrument\wp-content\uploads\2025\08\favicon.png
 Content Type: image/png
 
 Uri: http://instrument/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-includes\css\dist\block-library\style.min.css
+File Name: C:\Downloaded Web Sites\instrument\wp-includes\css\dist\block-library\style.min.css
 Content Type: text/css
 
 Uri: http://instrument/wp-includes/js/comment-reply.min.js?ver=6.8.2
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-includes\js\comment-reply.min.js
+File Name: C:\Downloaded Web Sites\instrument\wp-includes\js\comment-reply.min.js
 Content Type: application/javascript
 
 Uri: http://instrument/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-includes\js\jquery\jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\instrument\wp-includes\js\jquery\jquery-migrate.min.js
 Content Type: application/javascript
 
 Uri: http://instrument/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-includes\js\jquery\jquery.min.js
+File Name: C:\Downloaded Web Sites\instrument\wp-includes\js\jquery\jquery.min.js
 Content Type: application/javascript
 
 Uri: http://instrument/wp-json/
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\index.htm
+File Name: C:\Downloaded Web Sites\instrument\wp-json\index.htm
 Content Type: application/json
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Fo-service%2F
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-16
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-16
 Content Type: application/json
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Fo-service%2F&format=xml
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-17
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-17
 Content Type: text/xml
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Fpolitika-konfidenczialnosti%2F
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-18
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-18
 Content Type: application/json
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Fpolitika-konfidenczialnosti%2F&format=xml
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-19
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-19
 Content Type: text/xml
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-akkumulyatornyh-opryskivatelej-top-10%2F
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-6
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-6
 Content Type: application/json
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-akkumulyatornyh-opryskivatelej-top-10%2F&format=xml
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-7
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-7
 Content Type: text/xml
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-czirkulyarnyh-pil-top-10%2F
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-4
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-4
 Content Type: application/json
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-czirkulyarnyh-pil-top-10%2F&format=xml
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-5
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-5
 Content Type: text/xml
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-gajkovertov-top-10%2F
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-10
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-10
 Content Type: application/json
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-gajkovertov-top-10%2F&format=xml
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-11
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-11
 Content Type: text/xml
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-lazernyh-urovnej-top-10%2F
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-12
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-12
 Content Type: application/json
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-lazernyh-urovnej-top-10%2F&format=xml
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-13
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-13
 Content Type: text/xml
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-rozetok-top-10%2F
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-8
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-8
 Content Type: application/json
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-rozetok-top-10%2F&format=xml
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-9
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-9
 Content Type: text/xml
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-sadovyh-sekatorov-top-10%2F
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed
 Content Type: application/json
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-sadovyh-sekatorov-top-10%2F&format=xml
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-1
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-1
 Content Type: text/xml
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-shurupovyortov-top-10%2F
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-14
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-14
 Content Type: application/json
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-shurupovyortov-top-10%2F&format=xml
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-15
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-15
 Content Type: text/xml
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-smesitelej-dlya-vannoj-top-10%2F
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-2
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-2
 Content Type: application/json
 
 Uri: http://instrument/wp-json/oembed/1.0/embed?url=http:%2F%2Finstrument%2Frejting-luchshih-smesitelej-dlya-vannoj-top-10%2F&format=xml
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\oembed\1.0\embed-3
+File Name: C:\Downloaded Web Sites\instrument\wp-json\oembed\1.0\embed-3
 Content Type: text/xml
 
 Uri: http://instrument/wp-json/wp/v2/pages/31
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\wp\v2\pages\31
+File Name: C:\Downloaded Web Sites\instrument\wp-json\wp\v2\pages\31
 Content Type: application/json
 
 Uri: http://instrument/wp-json/wp/v2/pages/33
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\wp\v2\pages\33
+File Name: C:\Downloaded Web Sites\instrument\wp-json\wp\v2\pages\33
 Content Type: application/json
 
 Uri: http://instrument/wp-json/wp/v2/posts/14
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\wp\v2\posts\14
+File Name: C:\Downloaded Web Sites\instrument\wp-json\wp\v2\posts\14
 Content Type: application/json
 
 Uri: http://instrument/wp-json/wp/v2/posts/16
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\wp\v2\posts\16
+File Name: C:\Downloaded Web Sites\instrument\wp-json\wp\v2\posts\16
 Content Type: application/json
 
 Uri: http://instrument/wp-json/wp/v2/posts/18
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\wp\v2\posts\18
+File Name: C:\Downloaded Web Sites\instrument\wp-json\wp\v2\posts\18
 Content Type: application/json
 
 Uri: http://instrument/wp-json/wp/v2/posts/20
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\wp\v2\posts\20
+File Name: C:\Downloaded Web Sites\instrument\wp-json\wp\v2\posts\20
 Content Type: application/json
 
 Uri: http://instrument/wp-json/wp/v2/posts/22
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\wp\v2\posts\22
+File Name: C:\Downloaded Web Sites\instrument\wp-json\wp\v2\posts\22
 Content Type: application/json
 
 Uri: http://instrument/wp-json/wp/v2/posts/24
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\wp\v2\posts\24
+File Name: C:\Downloaded Web Sites\instrument\wp-json\wp\v2\posts\24
 Content Type: application/json
 
 Uri: http://instrument/wp-json/wp/v2/posts/26
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\wp\v2\posts\26
+File Name: C:\Downloaded Web Sites\instrument\wp-json\wp\v2\posts\26
 Content Type: application/json
 
 Uri: http://instrument/wp-json/wp/v2/posts/28
-File Name: C:\Users\KK\Desktop\мф\instrument\wp-json\wp\v2\posts\28
+File Name: C:\Downloaded Web Sites\instrument\wp-json\wp\v2\posts\28
 Content Type: application/json
 
 Uri: http://instrument/xmlrpc.php?rsd
-File Name: C:\Users\KK\Desktop\мф\instrument\xmlrpc.php
+File Name: C:\Downloaded Web Sites\instrument\xmlrpc.php
 Content Type: text/xml
 
 Uri: https://fonts.googleapis.com/css?family=Montserrat:400%2C400i%2C700&subset=cyrillic&display=swap&ver=6.8.2
-File Name: C:\Users\KK\Desktop\мф\instrument\css
+File Name: C:\Downloaded Web Sites\instrument\css
 Content Type: text/css
 
 Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXx0ow.ttf
-File Name: C:\Users\KK\Desktop\мф\instrument\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXx0ow.ttf
+File Name: C:\Downloaded Web Sites\instrument\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXx0ow.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aX8.ttf
-File Name: C:\Users\KK\Desktop\мф\instrument\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aX8.ttf
+File Name: C:\Downloaded Web Sites\instrument\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aX8.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w9aX8.ttf
-File Name: C:\Users\KK\Desktop\мф\instrument\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w9aX8.ttf
+File Name: C:\Downloaded Web Sites\instrument\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w9aX8.ttf
 Content Type: font/ttf
 
